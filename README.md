@@ -14,7 +14,7 @@ I didn't invent anything new. I just noticed that no script existed to capture M
 
 My workflow: record the class → fix the text (even a good transcription can contain syntax or grammar errors, foreign words rendered phonetically, or local expressions) → save as `.md` → give it to an AI, tagged like HTML, so it has the context of hours of recording. The goal is to study from what was actually explained in class, because knowledge from lectures often fades from memory.
 
-Made for students. Proposed in my hackathon *Nuevas Fronteras 2026* (2nd place).
+Made for students. Proposed in my hackathon *Nuevas Fronteras 2026* (2nd place — [announced by the organizer](https://www.instagram.com/p/DfCtF83iIei/)).
 
 ## Privacy — please read
 
