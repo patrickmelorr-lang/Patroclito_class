@@ -4,6 +4,8 @@
 
 Patroclito_class is a small, free, open-source Python app. It reads the text that Windows 11 **Live Captions** already shows on screen and saves it, line by line with timestamps, into a plain `.txt` file on your computer. Hours of lecture become text you can clean up, convert to Markdown, and feed to an AI assistant (ChatGPT, Claude, Gemini…) as study context.
 
+![Patroclito_class screenshot](images/transcripcion_app.png)
+
 *Keywords: save Windows Live Captions to text file, transcribe lectures, lecture notes from live captions, Live Captions to Markdown, student study tool.*
 
 ## Why this exists
